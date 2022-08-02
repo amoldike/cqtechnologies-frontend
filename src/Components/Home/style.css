@@ -1,0 +1,41 @@
+h1 {
+  color: white;
+}
+.add-btn {
+  text-decoration: none;
+  background-color: green;
+  color: white;
+  padding: 0.6rem;
+  border-radius: 6px;
+  float: right;
+  position: relative;
+  right: 7%;
+  top: -1.5rem;
+}
+.table-wrapper {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+table,
+th,
+td {
+  border: 1px solid rgb(0, 0, 0);
+  border-collapse: collapse;
+  padding: 1rem;
+  margin-left: 5rem;
+  font-size: large;
+  color: rgb(255, 255, 255);
+}
+th {
+  background-color: rgb(5, 2, 59);
+  color: wheat;
+}
+.edit-btn {
+  text-decoration: none;
+  background-color: #1976f2;
+  color: white;
+  padding: 0.6rem;
+  border-radius: 6px;
+  margin-left: 0.3rem;
+}
